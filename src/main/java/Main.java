@@ -39,7 +39,7 @@ public class Main {
         product3.setStockQuantity(50);
         System.out.println("Updated product3: " + product3);
 
-        customer3.setName("Charlie");
+        customer3.setName("Charlousus");
         customer3.setTotalPurchases(12000);
         System.out.println("Updated customer3: " + customer3);
 
