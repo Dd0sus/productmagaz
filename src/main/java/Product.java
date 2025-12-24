@@ -14,7 +14,7 @@ public class Product {
 
     public Product() {
         this.productId = 0;
-        this.name = "Unknown Product";
+        this.name = "unknown product";
         this.price = 0.0;
         this.stockQuantity = 0;
     }
